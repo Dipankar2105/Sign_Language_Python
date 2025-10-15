@@ -29,11 +29,17 @@ By integrating AI and visual recognition techniques, this initiative bridges the
 ## Project Structure
 
 SignLanguage/
+
 ├── dataset/ # Raw gesture images sorted by label
+
 ├── preprocessed_dataset/ # Resized and normalized images
+
 ├── keypoints_dataset/ # Extracted hand landmark keypoints
+
 ├── models/ # Trained models and encoders
+
 ├── scripts/ # Python processing and training scripts
+
 ├── README.md # Project documentation
 
 

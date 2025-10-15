@@ -1,11 +1,11 @@
 # Sign Language Detection and Recognition System
 A Python-powered project for phrase-level sign language gesture recognition using computer vision and machine learning. 
 This tool enables automatic recognition of sign language gestures from images or webcam video, converting them to text for increased accessibility.
-<img src="https://github.com/user-attachments/assets/5acdb601-d6d1-4e6d-b526-685e0517d13c" width="800" /> 
-<img src="https://github.com/user-attachments/assets/4d42bde3-474a-48c6-b8cb-674ca6c21d11" width="800" />
-<img src="https://github.com/user-attachments/assets/eff0317b-827f-4261-aaf1-0acdb9a8fd99" width="600" /> 
-<img src="https://github.com/user-attachments/assets/d697886f-b1fd-472f-b588-39c3da447e6a" width="800" /> 
-<img src="https://github.com/user-attachments/assets/90d6d1c3-62b9-4640-ab12-572571b163d6" width="800" />
+<img width="2559" height="1599" alt="Screenshot 2025-10-08 101733" src="https://github.com/user-attachments/assets/5acdb601-d6d1-4e6d-b526-685e0517d13c" />
+<img width="2559" height="1533" alt="Screenshot 2025-10-08 102003" src="https://github.com/user-attachments/assets/4d42bde3-474a-48c6-b8cb-674ca6c21d11" />
+<img width="1921" height="1116" alt="Screenshot 2025-10-08 102112" src="https://github.com/user-attachments/assets/eff0317b-827f-4261-aaf1-0acdb9a8fd99" />
+<img width="2559" height="1531" alt="Screenshot 2025-10-08 101658" src="https://github.com/user-attachments/assets/d697886f-b1fd-472f-b588-39c3da447e6a" />
+<img width="2559" height="1525" alt="Screenshot 2025-10-08 000302" src="https://github.com/user-attachments/assets/90d6d1c3-62b9-4640-ab12-572571b163d6" />
 Sign language is a critical communication medium for the deaf and hard-of-hearing community. This project creates an automated sign language detection and recognition system using cutting-edge computer vision and machine learning methods.
 The system uses Mediapipe to extract 21 hand landmarks (keypoints) from images or video frames, capturing essential hand posture and movement data to differentiate gestures effectively.
 
